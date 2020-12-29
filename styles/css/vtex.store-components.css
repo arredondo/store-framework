@@ -19,9 +19,9 @@
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    background-color: blue;
+    color: gray;
+    background-color: white;
     border: transparent;
-    color: #ffffff;
 }
 .infoCardContainer--vintage {
   background-color: #edcfd1;
